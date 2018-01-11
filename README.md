@@ -36,7 +36,7 @@
 * [StackOverflow](https://stackoverflow.com/)
 
 ## Code Editor Web ## 
-* [JSDiddle](https://jsfiddle.net/)
+* [JSFiddle](https://jsfiddle.net/)
 * [Testar HTML](http://testar-html.blogspot.com.br/)
 * [PHPFiddle](http://phpfiddle.org/)
 

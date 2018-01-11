@@ -15,6 +15,15 @@
 * [Development Android](https://developer.android.com/design/index.html)
 * [FontAwesome 5](https://fontawesome.com/icons?d=gallery)
 
+## Flex-box ## 
+* [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [dpw](http://desenvolvimentoparaweb.com/css/flexbox/)
+
+## Webflow IX Design ##
+* [Interacition 2.0](https://webflow.com/interactions-animations)
+* [Examples](http://interactions.webflow.com/#examples)
+* [Course Animations and Interactions](https://university.webflow.com/courses/interactions-and-animations-course?utm_campaign=oct217&utm_source=newsletter&utm_medium=email)
+
 ## Blogs ## 
 * [Felipe Fialho](https://www.felipefialho.com)
 * [Raphael Fabeni](http://www.raphaelfabeni.com.br/)
@@ -26,8 +35,10 @@
 * [Codepen](https://codepen.io/)
 * [StackOverflow](https://stackoverflow.com/)
 
-## Books ## 
-* [A Web Mobile](http://sergiolopes.org/livro-web-mobile/)
+## Code Editor Web ## 
+* [JSDiddle](https://jsfiddle.net/)
+* [Testar HTML](http://testar-html.blogspot.com.br/)
+* [PHPFiddle](http://phpfiddle.org/)
 
 ## Courses ##
 * [Udemy](https://www.udemy.com/)
@@ -35,16 +46,6 @@
 * [Caelum](https://www.caelum.com.br/)
 * [Origamid](https://www.origamid.com/)
 * [Udacity](https://br.udacity.com/)
-## Specific Courses ##
-* []()
-* [Aprendendo a organiar o seu CSS](http://interactions.webflow.com/#examples)
 
-## Code Editor Web ## 
-* [JSDiddle](https://jsfiddle.net/)
-* [Testar HTML](http://testar-html.blogspot.com.br/)
-* [PHPFiddle](http://phpfiddle.org/)
-
-## Webflow IX Design ##
-* [Interacition 2.0](https://webflow.com/interactions-animations)
-* [Examples](http://interactions.webflow.com/#examples)
-* [Course Animations and Interactions](https://university.webflow.com/courses/interactions-and-animations-course?utm_campaign=oct217&utm_source=newsletter&utm_medium=email)
+## Books ## 
+* [A Web Mobile](http://sergiolopes.org/livro-web-mobile/)

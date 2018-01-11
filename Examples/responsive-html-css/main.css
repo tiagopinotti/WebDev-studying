@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: rgb(70, 70, 70);
+    font-size: 10px;
+    line-height: 10px;
+    overflow-Y:scroll;
+    overflow-X:hidden;
+}
+
+/* scroll bar */
+body::-webkit-scrollbar-track {
+    background-color: rgb(32, 32, 32);
+}
+
+body::-webkit-scrollbar {
+    width: 5px;
+    background-color: #333;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: purple;
+}  
+/* scroll bar */
+
+section {
+    background-color:rgb(32, 32, 32);
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+}
+
+section:hover {
+    box-shadow: 15px 15px 1px purple;
+    border: 1px solid purple;
+}
+
+div {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 8vw;
+    line-height: 10vh;
+    cursor: pointer;
+}
+
+h1:hover {
+    color:greenyellow;
+}
+
+p {
+    font-size: 2.8em;
+    line-height: 35px;
+}
+
+p:hover {
+    color:yellow;
+}
+
+.group-circle {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.circle {
+    background-color: rgb(0, 238, 255);
+    width: 300px;
+    height: 300px;
+    margin: 5%;
+}
+
+/* media queries */
+@media screen and (max-width:320px) {
+    ...
+}

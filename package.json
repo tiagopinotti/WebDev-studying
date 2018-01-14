@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/deppbrazil/WebDev-studying/issues"
   },
-  "homepage": "https://github.com/deppbrazil/WebDev-studying#readme"
+  "homepage": "https://github.com/deppbrazil/WebDev-studying#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }

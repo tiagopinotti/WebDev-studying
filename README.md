@@ -1,4 +1,7 @@
 # Web Development #
+
+## Get Started course HTML5 Complete ## 
+* [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 ## Sites Reference ## 
 * [W3Schools](https://www.w3schools.com/)
 * [Tableless](https://tableless.com.br/)
@@ -40,7 +43,7 @@
 * [Testar HTML](http://testar-html.blogspot.com.br/)
 * [PHPFiddle](http://phpfiddle.org/)
 
-## Courses ##
+## Courses References ##
 * [Udemy](https://www.udemy.com/)
 * [Alura](https://www.alura.com.br/)
 * [Caelum](https://www.caelum.com.br/)

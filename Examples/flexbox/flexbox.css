@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    background-color: yellowgreen;
+    
+    /* flexbox */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    /* flexbox */    
+}
+
+div {
+    width: 10vw;
+    height: 10vw;
+    margin: 2%;
+    border: 20px solid black;
+    border-radius: 50%;
+    background-color: orangered;
+}

@@ -21,6 +21,7 @@
 ## Flex-box ## 
 * [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [dpw](http://desenvolvimentoparaweb.com/css/flexbox/)
+* [Example](https://github.com/deppbrazil/WebDev-studying/tree/master/Examples/flexbox)
 
 ## Webflow IX Design ##
 * [Interacition 2.0](https://webflow.com/interactions-animations)

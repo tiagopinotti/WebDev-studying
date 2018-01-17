@@ -43,6 +43,12 @@
 * [Testar HTML](http://testar-html.blogspot.com.br/)
 * [PHPFiddle](http://phpfiddle.org/)
 
+## IDE ## 
+* [VSCode](https://code.visualstudio.com/)
+* [Sublime Text](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [PHP Storm](https://www.jetbrains.com/phpstorm/)
+
 ## Courses References ##
 * [Udemy](https://www.udemy.com/)
 * [Alura](https://www.alura.com.br/)

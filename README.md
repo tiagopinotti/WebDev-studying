@@ -4,6 +4,7 @@
 * [Gustavo Guanabara](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 ## Sites Reference ## 
 * [W3Schools](https://www.w3schools.com/)
+* [Maujor](http://www.maujor.com/)
 * [Tableless](https://tableless.com.br/)
 * [dpw](http://desenvolvimentoparaweb.com/)
 * [iMasters](https://imasters.com.br/)

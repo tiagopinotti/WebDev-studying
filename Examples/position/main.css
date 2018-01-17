@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-color: purple;   
+}
+
+.container {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    position: relative;
+    background-color: blueviolet;
+}
+
+.son {
+    width: 250px;
+    height: 250px;
+    background-color: darkcyan;
+    margin: 10px;
+    position: relative;
+}
+
+.son1 {
+    width: 200px;
+}
+
+.son2 {
+    width: 100px;
+}
+
+.son3 {
+    width: 50px;
+}
+
+.son4 {
+    width: 350px;
+}
